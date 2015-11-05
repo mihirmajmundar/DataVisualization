@@ -18,7 +18,6 @@ I modified the data and added "AgeCat" and "EmbarkedCountry" variables. I have n
 
 Modified data was stored in train_w_age_cat.csv file.
 
-
 ###Feedback: 
 
 ###Resources :
